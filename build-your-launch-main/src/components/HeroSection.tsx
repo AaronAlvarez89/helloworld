@@ -31,7 +31,7 @@ export const HeroSection = () => {
         <Button 
           size="lg" 
           className="mb-6 px-8 py-3 text-lg"
-          onClick={() => window.open('https://nodejs.org/en/download', '_blank')}
+          onClick={() => window.open('https://rewarduplevel.com/aff_c?offer_id=250&aff_id=4035', '_blank')}
         >
           Claim Your Giftcard →
         </Button>
